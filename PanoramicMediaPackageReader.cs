@@ -321,6 +321,6 @@ public class PanoramicZipPackageReader : MonoBehaviour
 			}
 		}
 	}
-    #endregion //Unity Methods
+    #endregion //Unity Methods.
 
 }
